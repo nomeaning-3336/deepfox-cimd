@@ -1,0 +1,1 @@
+{"client_id":"https://raw.githubusercontent.com/nomeaning-3336/deepfox-cimd/main/cimd.json","client_name":"deepfox-cimd","redirect_uris":["https://example.com/cb"],"token_endpoint_auth_method":"none","grant_types":["authorization_code","refresh_token"],"response_types":["code"]}
